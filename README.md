@@ -1,2 +1,4 @@
-# Labs
-NNFL Labs for Fall 2019
+## ML Lab book
+Lab book for the course BITS F464: Machine Learning .
+
+---
