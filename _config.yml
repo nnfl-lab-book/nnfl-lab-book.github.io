@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : ML Lab Book
+title : NNFL Lab Book
 author :
-  name : BITS 464
-  email : ml.lab.book@gmail.com
-  github : ml-lab-book
+  name : BITS F312
+  email : nnfllab@gmail.com
+  github : nnfl-lab-book
   twitter : nil
   feedburner : nil
 
-production_url : https://ml-lab-book.github.io
+production_url : https://nnfl-lab-book.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)

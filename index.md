@@ -14,7 +14,7 @@ description: Developed at BITS Pilani, KK Birla Goa Campus
   </div>
 </div>
 
-<img src="assets/pics/nn.png" title="neural network"/>
+<img src="assets/pics/nn.jpg" title="neural network"/>
 
 <!--
 <table class="wide">
