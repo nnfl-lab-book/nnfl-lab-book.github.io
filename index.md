@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: ML Lab Book
+title: NNFL Lab Book
 description: Developed at BITS Pilani, KK Birla Goa Campus
 
 ---
@@ -8,13 +8,13 @@ description: Developed at BITS Pilani, KK Birla Goa Campus
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="pages/tutorial.html">Tutorial</a></li>
-          <li><a href="pages/lab.html">Lab</a></li>
+          <li><a href="pages/lab.html">Labs</a></li>
+          <li><a href="pages/assignment.html">Assignments</a></li>
       </ul>
   </div>
 </div>
 
-<img src="assets/pics/nofreelunch.png" title="No Free Lunch Theorem"/>
+<img src="assets/pics/brn.png" title="Brain is a neural network"/>
 
 <!--
 <table class="wide">
