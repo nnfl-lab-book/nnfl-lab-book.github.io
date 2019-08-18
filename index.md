@@ -14,7 +14,7 @@ description: Developed at BITS Pilani, KK Birla Goa Campus
   </div>
 </div>
 
-<img src="assets/pics/brn.png" title="Brain is a neural network"/>
+<img src="assets/pics/nn.png" title="neural network"/>
 
 <!--
 <table class="wide">

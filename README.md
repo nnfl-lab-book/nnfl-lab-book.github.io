@@ -1,4 +1,4 @@
-## ML Lab book
-Lab book for the course BITS F464: Machine Learning .
+## NNFL Lab book
+Lab book for the course BITS F312: Neural Networks.
 
 ---
