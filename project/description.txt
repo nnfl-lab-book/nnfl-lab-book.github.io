@@ -1,0 +1,7 @@
+Link :
+http://www.robots.ox.ac.uk/~vgg/data/voxceleb/vox2.html
+https://competitions.codalab.org/competitions/20200
+
+
+Synopsis :
+Detect speaker from audio clips.%
