@@ -1,0 +1,4 @@
+Multimodal Sentiment Analysis : 
+https://paperswithcode.com/task/multimodal-sentiment-analysis
+
+The idea is same, paper/project can change.
